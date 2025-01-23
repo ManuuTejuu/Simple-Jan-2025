@@ -1,7 +1,7 @@
 # Hello World
 
-My name is Manoj kumar.
+My name is Manoj kumar!
 
->Note: I am learning markdown.
+>Note: I am learning markdown!
   
-This is second line
+This is second line!!
